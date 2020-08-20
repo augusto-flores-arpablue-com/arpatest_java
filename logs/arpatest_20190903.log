@@ -1,0 +1,29 @@
+2019/09/03 23:19:06.685: STEP: Loading setttings file.
+2019/09/03 23:19:06.689:             Loading the [config.ini] ini file for new parameter.
+2019/09/03 23:19:06.693:             Loading package reference: com.arpablue.arpatest.examples.tc.parameters
+2019/09/03 23:19:06.697:             The [parameters] test case has been added to the [parameters] test plan.
+2019/09/03 23:19:06.701:             The [:TcParametersFile] class has been found and a new object has been instanced.
+2019/09/03 23:19:06.701:             Adding the [TcParametersFile] test case to the [parameters] test suit.
+2019/09/03 23:19:06.701:             The [customName:TcParametersComd] class has been found and a new object has been instanced.
+2019/09/03 23:19:06.705:             Adding the [customName] test case to the [parameters] test suit.
+2019/09/03 23:19:06.705:             The [TcParametersDirect] class has been found and a new object has been instanced.
+2019/09/03 23:19:06.709:             Adding the [TcParametersDirect] test case to the [parameters] test suit.
+2019/09/03 23:19:06.709:             Loading package reference: com.arpablue.arpatest.examples.tc.colors
+2019/09/03 23:19:06.709:             The [colors] test case has been added to the [colors] test plan.
+2019/09/03 23:19:06.713:             The [Color2] class has been found and a new object has been instanced.
+2019/09/03 23:19:06.713:             Adding the [Color2] test case to the [colors] test suit.
+2019/09/03 23:19:06.713:             The [RedColor:Color1] class has been found and a new object has been instanced.
+2019/09/03 23:19:06.717:             Adding the [RedColor] test case to the [colors] test suit.
+2019/09/03 23:19:06.717:             The [Color3] class has been found and a new object has been instanced.
+2019/09/03 23:19:06.721:             Adding the [Color3] test case to the [colors] test suit.
+2019/09/03 23:19:06.721:     WARNING: ( CoreTestManagement - executeTest ): The [TestPlanFile] field is not specified.
+2019/09/03 23:19:06.721:     MESSAGE: Executing the test plan: TestPlan
+2019/09/03 23:19:06.725:             Start the execution of [TestPlan] test object.
+2019/09/03 23:19:06.733:             Start the execution of [parameters] test object.
+2019/09/03 23:19:06.737:             Start the execution of [TcParametersFile] test object.
+2019/09/03 23:19:06.769:             Start the execution of [customName] test object.
+2019/09/03 23:19:06.821:             Start the execution of [TcParametersDirect] test object.
+2019/09/03 23:19:06.861:             Start the execution of [colors] test object.
+2019/09/03 23:19:06.865:             Start the execution of [Color2] test object.
+2019/09/03 23:19:06.909:             Start the execution of [RedColor] test object.
+2019/09/03 23:19:06.933:             Start the execution of [Color3] test object.

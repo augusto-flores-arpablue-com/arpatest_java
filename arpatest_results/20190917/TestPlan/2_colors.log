@@ -1,0 +1,12 @@
+-------------------------------------------------------------
+------------- TEST SUIT: colors
+    TOTAL TEST(S): 3
+            1) PASS: Color2 : 505.0 milisecond(s) : The test has been executed without problems.
+            2) PASS: RedColor : 470.0 milisecond(s) : The test has been executed without problems.
+            3) PASS: Color3 : 541.0 milisecond(s) : The test has been executed without problems.
+    TEST SUIT STATE: PASS
+    QUANTITY OF TEST CASES: 3
+        PASS: 3
+    ELAPSE TIME: 2.02  second(s)
+-------------------------------------------------------------
+

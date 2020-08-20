@@ -1,0 +1,9 @@
+[suit]MyCustomNameTestSuit:com.arpablue.arpatest.examples.tc.parameters
+MycustomName1:TcParametersFile
+MycustomName2:TcParametersComd
+MycustomName3:TcParametersDirect
+
+[suit]com.arpablue.arpatest.examples.tc.colors
+Color2
+Color1
+Color3

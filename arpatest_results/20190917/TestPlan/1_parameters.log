@@ -1,0 +1,12 @@
+-------------------------------------------------------------
+------------- TEST SUIT: parameters
+    TOTAL TEST(S): 3
+            1) PASS: TcParametersFile : 773.0 milisecond(s) : The test has been executed without problems.
+            2) PASS: customName : 569.0 milisecond(s) : The test has been executed without problems.
+            3) PASS: TcParametersDirect : 478.0 milisecond(s) : The test has been executed without problems.
+    TEST SUIT STATE: PASS
+    QUANTITY OF TEST CASES: 3
+        PASS: 3
+    ELAPSE TIME: 2.26  second(s)
+-------------------------------------------------------------
+
